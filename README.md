@@ -1,2 +1,1 @@
-# testing-backend
-backend created from terraform
+# this repository is for infra developers
